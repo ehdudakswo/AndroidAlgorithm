@@ -1,14 +1,16 @@
-package baekjoon;
+package baekjoon.p01000;
 
 import java.util.*;
 
-public class P010000 {
+public class Main {
 
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
         int a, b;
+
         a = sc.nextInt();
         b = sc.nextInt();
+
         System.out.println(a + b);
     }
 
