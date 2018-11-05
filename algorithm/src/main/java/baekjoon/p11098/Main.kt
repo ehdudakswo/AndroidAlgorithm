@@ -14,4 +14,4 @@ fun main(args: Array<String>) {
     }
 }
 
-class P11098Kt(val price: Int, val name: String)
+private class P11098Kt(val price: Int, val name: String)

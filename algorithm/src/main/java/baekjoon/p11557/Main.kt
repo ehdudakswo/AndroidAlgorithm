@@ -15,4 +15,4 @@ fun main(args: Array<String>) {
     }
 }
 
-class P11557Kt(val s: String, val l: Int)
+private class P11557Kt(val s: String, val l: Int)
