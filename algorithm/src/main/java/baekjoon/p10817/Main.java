@@ -1,6 +1,7 @@
 package baekjoon.p10817;
 
-import java.util.*;
+import java.util.Arrays;
+import java.util.Scanner;
 
 public class Main {
 

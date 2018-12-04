@@ -1,7 +1,7 @@
 package baekjoon.p02935;
 
-import java.math.*;
-import java.util.*;
+import java.math.BigInteger;
+import java.util.Scanner;
 
 public class Main {
 

@@ -1,7 +1,8 @@
 package baekjoon.p10699;
 
-import java.text.*;
-import java.util.*;
+import java.text.SimpleDateFormat;
+import java.util.Date;
+import java.util.Locale;
 
 public class Main {
 

@@ -1,6 +1,6 @@
 package baekjoon.p01000;
 
-import java.util.*;
+import java.util.Scanner;
 
 public class Main {
 

@@ -1,6 +1,7 @@
 package baekjoon.p10178;
 
-import java.util.*;
+import java.util.Locale;
+import java.util.Scanner;
 
 public class Main {
 
