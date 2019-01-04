@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">AndroidAlgorithm</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="main_toolbar_title">Toolbar Test</string>
+    <string name="main_content_title">Content Test</string>
+    <string name="main_navigation_view_test">Nav Test</string>
 </resources>
