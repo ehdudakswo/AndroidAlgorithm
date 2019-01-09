@@ -6,4 +6,5 @@
 
     <color name="main_nav_menu_text">@android:color/black</color>
     <color name="main_nav_menu_divider">@android:color/black</color>
+    <color name="main_recycler_view_divider">@android:color/black</color>
 </resources>
